@@ -1,12 +1,24 @@
 # node-todo-cicd
-
-Run these commands:
-`sudo apt install nodejs`
-`sudo apt install npm`
-`npm install`
-`node app.js`
-or Run by docker compose
-test
-
+Task definitions
 <img width="940" height="223" alt="image" src="https://github.com/user-attachments/assets/e6134fdb-a936-4c0c-a74d-514cbeefe7b5" />
+Cluster
+<img width="940" height="229" alt="image" src="https://github.com/user-attachments/assets/7970565c-1db5-4821-bc62-a7f177998214" />
+Images
+<img width="940" height="288" alt="image" src="https://github.com/user-attachments/assets/49f3577c-bd8b-4319-b49e-021f684933ec" />
+Permissions added to IAM user
+<img width="940" height="339" alt="image" src="https://github.com/user-attachments/assets/8e721ffd-4ced-40d3-91ee-a34ed6bca83f" />
+Created ECSTaskExecutionRole
+<img width="940" height="443" alt="image" src="https://github.com/user-attachments/assets/d952c251-8b0e-4def-bbc9-747c78386e0b" />
+Cluster
+<img width="940" height="448" alt="image" src="https://github.com/user-attachments/assets/464dc86e-e9bd-4f77-884e-94e8e6db28c4" />
+EC2
+<img width="940" height="251" alt="image" src="https://github.com/user-attachments/assets/fa333f6e-22f3-4b56-a3a7-c07451f8cdf5" />
+Docker Images
+<img width="940" height="173" alt="image" src="https://github.com/user-attachments/assets/a0a58661-2e2d-4d73-be62-4cc072b6d24f" />
+See Custer Info
+<img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/f4def26a-d2b6-4200-b482-5ba0b710df74" />
+Output
+<img width="940" height="342" alt="image" src="https://github.com/user-attachments/assets/da2baae9-035d-490b-a3f9-054e4573ce6b" />
+
+
 
