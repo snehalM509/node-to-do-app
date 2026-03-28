@@ -1,26 +1,26 @@
 # node-todo-cicd
+
 A Node.js application that is fully automated with serverless ECS Fargate, with the image repository ECR and CloudWatch logging  integrated with proper IAM roles and Configuration. 
 
-Architecture 
+<h4><b>Architecture</b></h4>
 
 <img width="864" height="347" alt="image" src="https://github.com/user-attachments/assets/83cf383d-8d41-4dc1-aa74-9d91a28a6288" />
 
-Key Components
 
-Key Components:
+<h4><b>Key Components:</b></h4>
 <h5><b>EC2</b>: Virtual server where the app runs.</h5>
-VPC: Isolated network with public/private subnets across 2 AZs
-ECS Fargate: Serverless container orchestration
-ECR: Public Docker image registry
-CloudWatch: Centralized logging and monitoring
-IAM: Identity and Access Management
+<h5><b>VPC</b>: Isolated network with public/private subnets across 2 AZs</h5>
+<h5><b>ECS Fargate</b>: Serverless container orchestration</h5>
+<h5><b>ECR</b>: Public Docker image registry</h5>
+<h5><b>CloudWatch</b>: Centralized logging and monitoring</h5>
+<h5><b>IAM</b>: Identity and Access Management</h5>
 
 
 
 
-About
+<h4><b><About</b></h4>
 
-Task definitions
+<h4><b>Task definitions</b></h4>
 <img width="940" height="223" alt="image" src="https://github.com/user-attachments/assets/e6134fdb-a936-4c0c-a74d-514cbeefe7b5" />
 Cluster
 <img width="940" height="229" alt="image" src="https://github.com/user-attachments/assets/7970565c-1db5-4821-bc62-a7f177998214" />
