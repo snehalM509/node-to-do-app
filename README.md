@@ -8,11 +8,12 @@ Architecture
 Key Components
 
 Key Components:
-EC2: Virtual server where the app runs.
+<h5><b>EC2</b>: Virtual server where the app runs.</h5>
 VPC: Isolated network with public/private subnets across 2 AZs
 ECS Fargate: Serverless container orchestration
 ECR: Public Docker image registry
 CloudWatch: Centralized logging and monitoring
+IAM: Identity and Access Management
 
 
 
